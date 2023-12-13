@@ -1,0 +1,4 @@
+{
+    "extends": "@arya-ui/ts-config/react.json",
+    "include": ["src"]
+}

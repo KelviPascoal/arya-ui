@@ -1,0 +1,14 @@
+{
+  "name": "@arya-ui/input",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "tsup src/index.ts --watch",
+    "build": "tsup src/index.ts"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.44",
+    "react": "^18.2.0"
+  }
+}
